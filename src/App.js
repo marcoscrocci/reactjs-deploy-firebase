@@ -17,6 +17,12 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          Testing deployment this web site to firebase hosting.
+        </p>
+        <p>
+          Marcos M. Crocci
+        </p>
       </header>
     </div>
   );
