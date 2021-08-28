@@ -41,6 +41,8 @@ firebase deploy
 	- Acessar o site que foi gerado no Firebase com o deploy:
 https://reactjs-deploy-firebase.web.app/
 
+Obs.: A URL acima é do meu projeto. Ao terminar o deploy o Firebase exibe a sua URL ao terminar o processo.
+
 Fonte - Youtube: Fast React Website Deployment With Firebase
 
 
